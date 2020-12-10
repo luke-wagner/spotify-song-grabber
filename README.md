@@ -24,3 +24,5 @@ In order for this to work FOLLOW THE STEPS BELOW:
 2. Under properties set "target" to direct main.py
 3. Set shortcut key to whatever you'd like
 4. Set it to run minimized
+
+---NOTE: The program will require browser authentication the first/couple times it's run. This is not a permanent effect though.
