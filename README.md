@@ -6,6 +6,7 @@ This is by no means flawless but I thought I'd just put it out there if anyone a
 Dependencies:
 
 --pip install SwSpotify
+
 --pip install spotipy
 
 In order for this to work FOLLOW THE STEPS BELOW:
