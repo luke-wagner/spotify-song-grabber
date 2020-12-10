@@ -1,5 +1,6 @@
 # spotify-song-grabber
-Get your currently playing song and add to a playlist of your choice with keyboard shortcut
+Get your currently playing song and add to a playlist of your choice with keyboard shortcut. Feel free to modify or use however you please.
+DISCLAIMER: the jpg file provided is NOT the official spotipy logo
 
 This is by no means flawless but I thought I'd just put it out there if anyone actually wants it :^)
 
