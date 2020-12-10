@@ -4,10 +4,12 @@ Get your currently playing song and add to a playlist of your choice with keyboa
 This is by no means flawless but I thought I'd just put it out there if anyone actually wants it :^)
 
 Dependencies:
+
 --pip install SwSpotify
 --pip install spotipy
 
 In order for this to work FOLLOW THE STEPS BELOW:
+
 --For basic functionality
 1. Obtain a Spotify developer account by visiting this website: https://developer.spotify.com/
 2. Create a new app and under settings set redirect_uri to "http://localhost:8888/callback"
