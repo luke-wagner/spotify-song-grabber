@@ -23,8 +23,10 @@ In order for this to work FOLLOW THE STEPS BELOW:
 
 --For keyboard shortcut
 1. Create new desktop shortcut
-2. Under properties set "target" to direct main.py
+2. Under properties set "target" to path_to_folder/src/main.py
 3. Set shortcut key to whatever you'd like
 4. Set it to run minimized
+5. (Optional): Set icon to "spotipy icon.ico"
+6. (Optional): Set playlist icon to "spotipy icon.jpg"
 
 ---NOTE: The program will require browser authentication the first/couple times it's run. This is not a permanent effect though.
